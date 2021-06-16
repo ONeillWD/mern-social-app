@@ -1,0 +1,39 @@
+This is my personal log as I work through the code to track bugs and issues
+****----*
+
+The code on the bottom of page 221 breaks the code and does not enable a bio to be added to the profile. 
+
+Page 227 has you edit the use.controller update and the code is completely different with portions in the try statment 
+
+Statements that the book want you to add will be bold but then the rest of the code that they changed will not be bolded pg 227
+
+When importing the profile picture the book does not mention adding the file before and this stops the project from working 
+
+Pg 233 project is not running at all due to some problem with the node modules.
+
+Confusion from where I am supposed to place some of the lines of code pg233
+
+How am I supposed to know when to import the packages with react 
+
+p238 book does not show any onf the packages that you import. how am I supposed to know when to import these different packages.
+
+
+End Notes:
+
+Comments.js:
+Book never showed import files and never gave us instructions to set the use styles
+
+NewPost.js:
+Book did not show import of 16 files or the usesStyle settings. I have 27 lines of code when the end file has 136***
+
+NewFeed.js
+I have 50 lines and the book file has 75
+
+Post.js
+Me: 95 Book: 153
+
+FollowGrid:
+Me: 22 Book: 51
+
+
+*****Problem with the application crashing was resolved in the user.routes.js file **
